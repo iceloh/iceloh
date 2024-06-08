@@ -13,6 +13,9 @@ Bem-vindo ao meu perfil GitHub! Sou um entusiasta de Ciência de Dados e Analyti
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?logo=facebook&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?logo=google-ads&logoColor=white)
+
 
 
 ## 🌐 Conecte-se Comigo
