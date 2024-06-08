@@ -1,9 +1,8 @@
-# 👋 Olá, eu sou Marcelo!
+# 👋 Hello, I'm Marcelo!
 
-Bem-vindo ao meu perfil GitHub! Sou um entusiasta de Ciência de Dados e Analytics Engineering com uma sólida experiência em marketing.
+Welcome to my GitHub profile! I'm a Data Science and Analytics Engineering enthusiast with a solid background in marketing.
 
-
-## 🛠️ Habilidades
+## 🛠️ Skills
 
 ![SQL](https://img.shields.io/badge/SQL-3178C6?logo=sql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -16,15 +15,12 @@ Bem-vindo ao meu perfil GitHub! Sou um entusiasta de Ciência de Dados e Analyti
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?logo=facebook&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?logo=google-ads&logoColor=white)
 
-
-
-## 🌐 Conecte-se Comigo
+## 🌐 Connect with Me
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:marcelosouza@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/iceloh/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/celohsouza/)
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=iceloh&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceloh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceloh&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
